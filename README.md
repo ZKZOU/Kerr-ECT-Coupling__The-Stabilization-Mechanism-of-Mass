@@ -11,6 +11,7 @@ https://orcid.org/0009-0000-4279-1064
 **Funding Declaration:** No funding was received
 
 Zou, Z. K. (2026). Kerr-ECT Coupling: How Fixed-Chiral Quantum Torsion Stabilizes Mass from Micro-Particles to Black Holes. Zenodo. https://doi.org/10.5281/zenodo.21847228
+
 ---
 
 ## Abstract
