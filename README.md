@@ -275,12 +275,12 @@ This paper is a natural extension of Zou's (2025) MITC model into the domain of 
 
 ## References
 
-[1] Roy P. Kerr. (1963). Gravitational Field of a Spinning Mass as an Example of Algebraically Special Metrics. *Physical Review Letters*. https://doi.org/10.1103/physrevlett.11.237
+[1]Roy P. Kerr.(1963).Gravitational Field of a Spinning Mass as an Example of Algebraically Special Metrics. Physical Review Letters. https://doi.org/10.1103/physrevlett.11.237 
 
-[2] Friedrich W. Hehl., Paul von der Heyde., G. David Kerlick., James M. Nester. (1976). General relativity with spin and torsion: Foundations and prospects. *Reviews of Modern Physics*. https://doi.org/10.1103/revmodphys.48.393
+[2]Friedrich W. Hehl., Paul von der Heyde., G. David Kerlick., James M. Nester. (1976). General relativity with spin and torsion: Foundations and prospects. Reviews of Modern Physics. 
+https://doi.org/10.1103/revmodphys.48.393  
 
-[3] Clifford, W.K. (1976). On the Space-Theory of Matter. In: Čapek, M. (eds) *The Concepts of Space and Time*. Boston Studies in the Philosophy of Science, vol 22. Springer, Dordrecht. https://doi.org/10.1007/978-94-010-1727-5_50 (Original work published 1876)
+[3]Clifford, W.K.(1976). On the Space-Theory of Matter. In: Čapek, M. (eds) The Concepts of Space and Time. Boston Studies in the Philosophy of Science, vol 22. Springer, Dordrecht. https://doi.org/10.1007/978-94-010-1727-5_50  (Original work published 1876)
 
-[4] Zou, Z. K. (2025). The Thermodynamic Arrow of Time in a Double-Layer Topology-Invariant Chiral Space with Geometric (GR) and Gauge (QFT) Degrees of Freedom :Time-Entropy Mapping; Mass-Gravity Duality; Metric-Frequency Mirroring. *Preprints*. https://doi.org/10.20944/preprints202505.0270.v12
-
+[4]Zou, Z. K. (2025). The Thermodynamic Arrow of Time in a Double-Layer Topology-Invariant Chiral Space with Geometric (GR) and Gauge (QFT) Degrees of Freedom :Time-Entropy Mapping; Mass-Gravity Duality; Metric-Frequency Mirroring. Preprints. https://doi.org/10.20944/preprints202505.0270.v12
 
