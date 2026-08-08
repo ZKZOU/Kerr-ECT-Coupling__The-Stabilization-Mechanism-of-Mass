@@ -1,7 +1,7 @@
 # Kerr ECT Coupling:The Stabilization Mechanism of Mass
 
-# Kerr-ECT Coupling:
-# How Fixed-Chiral Quantum Torsion Stabilizes Mass from Micro-Particles to Black Holes
+### Kerr-ECT Coupling:
+### How Fixed-Chiral Quantum Torsion Stabilizes Mass from Micro-Particles to Black Holes
 
 **Zou, Zhi Kai 邹志凯**
 Independent Researcher
